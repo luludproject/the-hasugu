@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://the-hasugu.pages.dev/sitemap.xml
